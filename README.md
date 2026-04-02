@@ -121,3 +121,8 @@ credit-card-fraud-detection/
 - Enhance UI/UX  
 
 ---
+🌐 Live Demo
+
+👉 Click here to try the app:
+
+https://your-app-name.streamlit.app
