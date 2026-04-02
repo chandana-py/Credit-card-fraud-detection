@@ -49,7 +49,7 @@ The Random Forest model was selected as the best model based on overall performa
 ![ROC Curve](roc.png)
 
 ### 🔹 Confusion Matrix
-![Confusion Matrix](confusion_matrix.png)
+![Confusion Matrix](confusion matrix.png)
 
 ---
 
