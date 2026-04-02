@@ -64,3 +64,65 @@ The web app allows users to:
 ---
 
 ## 📁 Project Structure
+
+credit-card-fraud-detection/ │ 
+├── app.py 
+├── model.pkl 
+├── encoder.pkl 
+├── roc_curve.png 
+├── confusion_matrix.png 
+├── README.md
+
+---
+
+## 🎯 Example Inputs
+
+### ✅ Legitimate Transaction
+- Amount: 50  
+- Hour: 14  
+- Category: food  
+- Age: 30  
+- Distance: 2  
+
+### ⚠️ Fraudulent Transaction
+- Amount: 2000  
+- Hour: 2  
+- Category: travel  
+- Age: 22  
+- Distance: 50  
+
+---
+
+## 🔍 Key Insights
+
+- High transaction amounts increase fraud probability  
+- Late-night transactions are more suspicious  
+- Large distance indicates unusual behavior  
+- Certain categories have higher fraud risk  
+
+---
+
+## 🛠️ Technologies Used
+
+- Python  
+- Pandas & NumPy  
+- Scikit-learn  
+- Streamlit  
+- Matplotlib & Seaborn  
+
+---
+
+## 📌 Future Improvements
+
+- Deploy using FastAPI backend  
+- Add real-time fraud monitoring  
+- Improve model using deep learning  
+- Enhance UI/UX  
+
+---
+
+## 👩‍💻 Author
+
+**Chandana B**
+
+---
