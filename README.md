@@ -1,6 +1,3 @@
-# Credit-card-fraud-detection
-Machine Learning based Credit Card Fraud Detection with Streamlit Dashboard
-
 # 💳 Credit Card Fraud Detection System
 
 A Machine Learning-based web application that detects fraudulent credit card transactions using an interactive Streamlit dashboard.
