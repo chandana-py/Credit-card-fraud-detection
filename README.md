@@ -125,4 +125,4 @@ credit-card-fraud-detection/
 
 👉 Click here to try the app:
 
-https://your-app-name.streamlit.app
+https://credit-card-fraud-detection-axrax9gkryqu3bgnw7axx4.streamlit.app/
