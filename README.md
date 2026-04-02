@@ -65,7 +65,8 @@ The web app allows users to:
 
 ## 📁 Project Structure
 
-credit-card-fraud-detection/ │ 
+credit-card-fraud-detection/ 
+│ 
 ├── app.py 
 ├── model.pkl 
 ├── encoder.pkl 
@@ -118,11 +119,5 @@ credit-card-fraud-detection/ │
 - Add real-time fraud monitoring  
 - Improve model using deep learning  
 - Enhance UI/UX  
-
----
-
-## 👩‍💻 Author
-
-**Chandana B**
 
 ---
