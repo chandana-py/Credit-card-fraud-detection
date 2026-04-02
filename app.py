@@ -1,12 +1,12 @@
 import streamlit as st
-import pickle
+import joblib
 import numpy as np
 
 # ================================
 # 🔹 Load Model & Encoder
 # ================================
-model = pickle.load(open("model.pkl", "rb"))
-encoder = pickle.load(open("encoder.pkl", "rb"))
+model = joblib.load("model.pkl")
+encoder = joblib.load("encoder.pkl")
 
 # ================================
 # 🔹 Page Config
