@@ -39,7 +39,6 @@ The Random Forest model was selected as the best model based on overall performa
 | Decision Tree       | 0.998     | 0.83    | 0.989   |
 | Random Forest       | **0.998** | **0.854** | **0.979** |
 
-> ⚠️ Replace these values with your actual results if needed
 
 ---
 
