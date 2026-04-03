@@ -35,9 +35,9 @@ The Random Forest model was selected as the best model based on overall performa
 
 | Model               | Accuracy | F1 Score | ROC-AUC |
 |--------------------|----------|----------|--------|
-| Logistic Regression | 0.94     | 0.60     | 0.92   |
-| Decision Tree       | 0.95     | 0.65     | 0.93   |
-| Random Forest       | **0.97** | **0.75** | **0.96** |
+| Logistic Regression | 0.994     | 0.00     | 0.84   |
+| Decision Tree       | 0.998     | 0.83    | 0.989   |
+| Random Forest       | **0.998** | **0.854** | **0.979** |
 
 > ⚠️ Replace these values with your actual results if needed
 
